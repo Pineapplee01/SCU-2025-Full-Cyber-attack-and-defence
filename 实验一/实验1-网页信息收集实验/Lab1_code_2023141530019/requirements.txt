@@ -1,0 +1,7 @@
+# 简化的依赖包
+langchain
+langchain-openai
+langchain-core
+langgraph
+requests
+beautifulsoup4
